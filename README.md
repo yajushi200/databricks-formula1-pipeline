@@ -118,10 +118,14 @@ Raw data files are not included in this repository — they live in ADLS Gen2 as
 ## 📸 Screenshots
 
 ### LakeFlow Job DAG
-*(See /screenshots/lakeflow_dag.png)*
+*(See /screenshots/Lakeflow_Jobs/full_data_pipeline.png)*
 
-### Lakeview Analytics Dashboard
-*(See /screenshots/dashboard.png)*
+### Analytics Dashboard
+*(See /screenshots/dashboard/)*
+- **Driver Championship Standings** — screenshots/dashboard/Drivers_Champs.png
+- **Constructor Championship Standings** — screenshots/dashboard/Constructor_Champs.png
+- **Dominant Drivers of All Time** — screenshots/dashboard/Dominant_Drivers.png
+- **Dominant Teams of All Time** — screenshots/dashboard/Dominant_Teams.png
 
 ---
 
