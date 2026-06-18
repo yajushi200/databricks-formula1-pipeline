@@ -45,7 +45,6 @@ An end-to-end data engineering pipeline built on **Azure Databricks** that inges
 │   ├── 03-silver/                   # Data transformation notebooks
 │   ├── 04-gold/                     # Aggregation and dimension/fact table notebooks
 │   ├── 05-analytics/                # SQL views for reporting and dashboards
-│   └── 06-orchestration/            # Batch management notebooks
 │
 ├── formula 1-project-incremental-load/   # Incremental load version of the pipeline
 │   ├── 00-common/
@@ -54,7 +53,7 @@ An end-to-end data engineering pipeline built on **Azure Databricks** that inges
 │   ├── 03-silver/
 │   ├── 04-gold/
 │   ├── 05-analytics/
-│   └── 06-orchestration/
+│   └── 06-orchestration/             # Batch management notebooks
 │
 └── screenshots/                     # Dashboard and pipeline screenshots
 ```
